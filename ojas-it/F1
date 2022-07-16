@@ -1,0 +1,14 @@
+jenkins pipeline is a series of jobs which are interlinked with each other
+
+in jenkins file we have declarative pilepline 
+scripted pipeline
+
+declarative pipeline syntax is simple starts with keyword "pipeline"
+scriperd pipeline syntax starts with keyword "node"
+declarative is easy to creat defines final state
+
+jenkins file can have many stages >>Build >>Test >>Deploy
+
+whenever code commit occurs build should be triggered
+HEAR WE AR GOING TO DISCUESS 
+DECLARATIVE PILEPLINE SYNTAX IS SIMPLE STARTS WITH THE KEYWORD NODE
